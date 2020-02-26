@@ -1,0 +1,22 @@
+{
+  "name": "auto-deploy",
+  "version": "1.0.0",
+  "description": "auto upload iOS or Android test package to SohuYunTai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.sohuno.com:MPTC-APP/auto-deploy.git"
+  },
+  "author": "Yin Heng",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.1",
+    "@types/request": "^2.48.3"
+  }
+}
